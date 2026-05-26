@@ -1,0 +1,26 @@
+{
+  "name": "tridev-ad-shine-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Tridev A&D Shine ecommerce website",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "jewellery",
+    "express"
+  ],
+  "author": "Tridev A&D Shine",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "multer": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

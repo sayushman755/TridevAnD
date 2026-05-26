@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1779783520031,
+    "orderNumber": "TADS-1779783516106",
+    "customer": {
+      "name": "AYUSHMAN SINGH",
+      "phone": "07838881412",
+      "city": "Azamgarh",
+      "address": "belaisa"
+    },
+    "items": [
+      {
+        "id": 2,
+        "slug": "golden-based-minimal-chain",
+        "name": "Golden Based Minimal Chain",
+        "category": "Necklace",
+        "price": 677,
+        "image": "/Products/Golden Based Minimal Chain.jpeg",
+        "stock": 12,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 677,
+    "paymentMethod": "whatsapp",
+    "paymentStatus": "pending",
+    "orderStatus": "pending_confirmation",
+    "note": "",
+    "createdAt": "2026-05-26T08:18:36.106Z",
+    "updatedAt": "2026-05-26T08:18:36.106Z"
+  },
+  {
+    "id": 1779781129070,
+    "orderNumber": "TADS-1779781121870",
+    "customer": {
+      "name": "AYUSHMAN SINGH",
+      "phone": "07838881412",
+      "city": "Azamgarh",
+      "address": "belaisa"
+    },
+    "items": [
+      {
+        "id": 1,
+        "slug": "classic-ribbed-hoop-earrings",
+        "name": "Classic Ribbed Hoop Earrings",
+        "category": "Earrings",
+        "price": 588,
+        "image": "/Products/Classic Ribbed Hoop Earrings.jpeg",
+        "quantity": 1
+      }
+    ],
+    "subtotal": 588,
+    "paymentMethod": "cod",
+    "paymentStatus": "failed",
+    "orderStatus": "cancelled",
+    "note": "",
+    "createdAt": "2026-05-26T07:38:41.870Z",
+    "updatedAt": "2026-05-26T07:39:04.349Z"
+  }
+]
